@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 26bd6558d5785fc4693ef05da8cfcae7, type: 3}
+  m_Name: 1
+  m_EditorClassIdentifier: 
+  sentences:
+  - text: You are an aspiring engineering student, entering the university with a
+      burning passion for creating and building. You start with foundational courses,
+      excited about the challenges ahead.
+    speaker: {fileID: 11400000, guid: ef3eea97a195ef142b6182a952fa9464, type: 2}
+  - text: hello
+    speaker: {fileID: 11400000, guid: a9a0561b990a0a648bd95da83672c8d9, type: 2}
+  background: {fileID: 21300000, guid: 41ab7930e9c6ce34db0145a01d76b7e1, type: 3}
+  nextScene: {fileID: 11400000, guid: a74a0c64ab1b05a44a60a8f17f0f92e7, type: 2}
